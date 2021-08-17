@@ -4,9 +4,12 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Just to learn and getting used to working on Github
 
 # Deployment
-This is a demo on something that doesn't exist
+
+Can be cloned by anyone i don't really care
+
 ## Importance
+
 Nothing important whatsoever
