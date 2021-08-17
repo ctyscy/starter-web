@@ -18,3 +18,7 @@ Nothing important whatsoever
 
 Push whatever ya need
 asdasdasdd
+
+## Copyright
+
+This is for ctyscy use only
