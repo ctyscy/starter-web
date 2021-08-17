@@ -17,7 +17,7 @@ Nothing important whatsoever
 ## How to Contribute
 
 Push whatever ya need
-Please fork this repository and issue pull for review;
+Please fork this repository and issue pull for review;s
 ## Copyright
 
 This is for ctyscy use only
